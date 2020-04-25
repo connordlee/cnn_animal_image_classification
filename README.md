@@ -5,8 +5,9 @@ This repository focuses on comparing the following methods for addressing unbala
 2. Progressive resizing using transfer learning and applying class weights to address the unbalanced data
 3. Image augmentation through creating transformed copies of the original training images for the under represented classes
 
-The goal of this project was to gain experience developing convolutional neural networks (CNN's) by developing three different models for classifying images of animals. The animals being compared for this project are cats, dogs, horses and zebras and the links to the datasets from Kaggle are listed below:
+The goal of this project was to gain experience developing convolutional neural networks (CNN's) by developing three different models for classifying images of animals. The animals being compared for this project are cats, dogs, horses and zebras, the link combined dataset used for this project and the links to the original datasets from Kaggle are listed below:
 
+* Combined Dataset (https://my.pcloud.com/publink/show?code=kZmVMwkZtzRJUynORuuH4vbwnCzyLXXpsxiV)
 * cat and dog (https://www.kaggle.com/tongpython/cat-and-dog)
 * horse2zebra (https://www.kaggle.com/arnaud58/horse2zebra)
 
