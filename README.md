@@ -1,5 +1,5 @@
-# CNN Animal Image Classification
-Comparison of the following methods for addressing unbalanced classes and inconsistent image sizes when working with CNN's in tensorflow:
+# Improving CNN Animal Image Classification
+This repository focuses on comparing the following methods for addressing unbalanced classes and inconsistent image sizes when working with CNN's in tensorflow:
 
 1. Apply class weights during fitting to put more weight on under represented classes
 2. Progressive resizing using transfer learning and applying class weights to address the unbalanced data
@@ -19,3 +19,9 @@ However through development of this project I learned new methods of working wit
 * Tensorflow and Keras
 * openCV
 * Images (using openCV and numpy)
+
+More detailed discussion of the steps taken, and comparisons of the three methods mentioned above are included in the cnn_project.ipynb.
+
+Other methods of improving a CNN's performance when faced with unbalanced data that are outside of the scope of this project at this time include the following:
+* Variational Autoencoder (VAE)
+* Generative Adversarial Network (GAN)
