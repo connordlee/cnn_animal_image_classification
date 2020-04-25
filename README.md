@@ -7,9 +7,9 @@ This repository focuses on comparing the following methods for addressing unbala
 
 The goal of this project was to gain experience developing convolutional neural networks (CNN's) by developing three different models for classifying images of animals. The animals being compared for this project are cats, dogs, horses and zebras, the link combined dataset used for this project and the links to the original datasets from Kaggle are listed below:
 
-* Combined Dataset (https://my.pcloud.com/publink/show?code=kZmVMwkZtzRJUynORuuH4vbwnCzyLXXpsxiV)
-* cat and dog (https://www.kaggle.com/tongpython/cat-and-dog)
-* horse2zebra (https://www.kaggle.com/arnaud58/horse2zebra)
+* [Combined Dataset](https://my.pcloud.com/publink/show?code=kZmVMwkZtzRJUynORuuH4vbwnCzyLXXpsxiV)
+* [cat and dog](https://www.kaggle.com/tongpython/cat-and-dog)
+* [horse2zebra](https://www.kaggle.com/arnaud58/horse2zebra)
 
 The primary learning objectives from this project were the following:
 * Learn how to work with unbalanced classes
