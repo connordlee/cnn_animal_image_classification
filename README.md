@@ -21,7 +21,7 @@ However through development of this project I learned new methods of working wit
 * openCV
 * Images (using openCV and numpy)
 
-More detailed discussion of the steps taken, and comparisons of the three methods mentioned above are included in cnn_animal _image_classification.ipynb.
+More detailed discussion of the steps taken, and comparisons of the three methods mentioned above are included in [cnn_animal _image_classification.ipynb](https://github.com/connordlee/cnn_animal_image_classification/blob/master/cnn_animal%20_image_classification.ipynb).
 
 Other methods of improving a CNN's performance when faced with unbalanced data that are outside of the scope of this project at this time include the following:
 * Variational Autoencoder (VAE)
