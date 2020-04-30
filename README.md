@@ -1,7 +1,7 @@
 # Improving CNN Animal Image Classification
 This repository focuses on comparing the following methods for addressing unbalanced classes and inconsistent image sizes when working with CNN's in tensorflow:
 
-1. Apply class weights during fitting to put more weight on under represented classes
+1. Applying class weights during fitting to put more weight on under represented classes
 2. Progressive resizing using transfer learning and applying class weights to address the unbalanced data
 3. Image augmentation through creating transformed copies of the original training images for the under represented classes
 
